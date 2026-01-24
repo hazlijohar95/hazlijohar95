@@ -12,8 +12,10 @@
 
 <br/>
 
-<!-- Certifications -->
-<img src="https://img.shields.io/badge/CPA-Australia-00529B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bS0xIDE3LjkzYy0zLjk1LS40OS03LTMuODUtNy03LjkzIDAtLjYyLjA4LTEuMjEuMjEtMS43OUw5IDE1djFjMCAxLjEuOSAyIDIgMnYxLjkzem02LjktMi41NGMtLjI2LS44MS0xLTEuMzktMS45LTEuMzloLTF2LTNjMC0uNTUtLjQ1LTEtMS0xSDh2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuMzl6Ii8+PC9zdmc+&logoColor=white" alt="CPA Australia"/>
+<!-- CPA Australia Member Badge -->
+<a href="https://www.cpaaustralia.com.au">
+  <img src="https://img.shields.io/badge/CPA_Australia-Member-00205C?style=for-the-badge&labelColor=00205C&color=D4AF37" alt="CPA Australia Member"/>
+</a>
 <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00FF00?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Location-Kuala%20Lumpur-FF6B6B?style=for-the-badge" alt="Location"/>
 
@@ -32,7 +34,8 @@
 // $ whoami
 const dev = {
     name: "Hazli Johar",
-    title: "CPA turned Full-Stack Dev",
+    title: "Chartered Accountant turned Full-Stack Dev",
+    credentials: ["CPA (Australia)"],
     based: "KL, Malaysia",
 
     stack: {
