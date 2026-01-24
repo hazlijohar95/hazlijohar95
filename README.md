@@ -57,12 +57,11 @@
 ```
 ┌─ Background ─────────────────────────────────────────────┐
 │                                                          │
-│   Former Chartered Accountant who learned to code.       │
+│   Chartered Accountant who loves to design and           │
+│   self-taught coding assisted by AI.                     │
+│                                                          │
 │   Now building software that accountants actually        │
 │   want to use.                                           │
-│                                                          │
-│   I believe spreadsheets with 50+ tabs should be         │
-│   databases.                                             │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -73,7 +72,7 @@
 ```
 ┌─ Setup ──────────────────────────┐
 │                                  │
-│   editor      cursor             │
+│   editor      paper / figma      │
 │   terminal    warp               │
 │   font        jetbrains mono     │
 │   theme       dark               │
