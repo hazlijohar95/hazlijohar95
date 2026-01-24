@@ -17,7 +17,7 @@
 <tr>
 <td align="center">
 <a href="https://www.cpaaustralia.com.au">
-<img src="./cpa-australia-logo.jpg" alt="CPA Australia" height="70"/>
+<img src="./cpa-logo.jpg" alt="CPA Australia" height="70"/>
 </a>
 </td>
 <td align="center">
