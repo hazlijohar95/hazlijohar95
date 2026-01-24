@@ -1,323 +1,166 @@
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                            │
-│   ██╗  ██╗ █████╗ ███████╗██╗     ██╗       ██╗ ██████╗ ██╗  ██╗ █████╗ ██████╗           │
-│   ██║  ██║██╔══██╗╚══███╔╝██║     ██║       ██║██╔═══██╗██║  ██║██╔══██╗██╔══██╗          │
-│   ███████║███████║  ███╔╝ ██║     ██║       ██║██║   ██║███████║███████║██████╔╝          │
-│   ██╔══██║██╔══██║ ███╔╝  ██║     ██║  ██   ██║██║   ██║██╔══██║██╔══██║██╔══██╗          │
-│   ██║  ██║██║  ██║███████╗███████╗██║  ╚█████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║          │
-│   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝   ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝          │
-│                                                                                            │
-│                           chartered accountant × design engineer                           │
-│                                                                                            │
-└────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
 <br/>
-
-<table>
-<tr>
-<td align="center">
-<a href="https://www.cpaaustralia.com.au">
-<img src="./cpa-logo.jpg" alt="CPA Australia" height="50"/>
-</a>
-</td>
-<td align="center">
-<a href="https://www.mia.org.my">
-<img src="./mia-logo.jpg" alt="MIA" height="50"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-hazlijohar-1a1a1a?style=flat-square&logo=linkedin&logoColor=6b7280)](https://linkedin.com/in/hazlijohar)
-[![X](https://img.shields.io/badge/x-hazlijohar-1a1a1a?style=flat-square&logo=x&logoColor=6b7280)](https://twitter.com/hazlijohar)
-[![GitHub](https://img.shields.io/badge/github-hazlijohar95-1a1a1a?style=flat-square&logo=github&logoColor=6b7280)](https://github.com/hazlijohar95)
-
-</div>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### About
-
-```json
-{
-  "location": "Kuala Lumpur",
-  "background": "Chartered Accountant",
-  "now": "Design Engineer",
-  "focus": "Building tools for accountants"
-}
-```
-
-<br/>
-
-### Setup
-
-```
-editor     cursor
-terminal   warp
-font       jetbrains mono
-theme      dark
-```
-
-</td>
-<td width="50%" valign="top">
-
-### Approach
-
-<br/>
-
-**Systems thinking**
-<br/>
-<sup>Understanding the whole before designing the parts</sup>
-
-<br/>
-
-**Intentional constraints**
-<br/>
-<sup>Limitations as a creative tool</sup>
-
-<br/>
-
-**Functional aesthetics**
-<br/>
-<sup>Design that works, not just looks</sup>
-
-<br/>
-
-**Ship > perfect**
-<br/>
-<sup>Iteration over speculation</sup>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<br/>
+# Hazli Johar
 
-```
-                            ┌─────────────────────────────────────┐
-                            │                                     │
-                            │            W  O  R  K               │
-                            │                                     │
-                            └─────────────────────────────────────┘
-```
-
-</div>
+design engineer
 
 <br/>
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-<br/>
-
-**cynco.io**
-
-<sup>Practice management<br/>for accounting firms</sup>
-
-<br/>
-
-`ts` `react` `convex`
+<sub>CPA Australia · MIA Malaysia</sub>
 
 <br/><br/>
 
-</td>
-<td width="33%" align="center">
-
-<br/>
-
-**opentaxation.my**
-
-<sup>Tax calculator<br/>for Malaysians</sup>
-
-<br/>
-
-`ts` `react` `workers`
+—
 
 <br/><br/>
 
-</td>
-<td width="33%" align="center">
-
-<br/>
-
-**firm-portal**
-
-<sup>Client portal<br/>for accountants</sup>
-
-<br/>
-
-`ts` `react` `convex`
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-```
-                            ┌─────────────────────────────────────┐
-                            │                                     │
-                            │            T  O  O  L  S            │
-                            │                                     │
-                            └─────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-<br/>
-
-**Languages**
-
-<br/>
-
-<sup>
-TypeScript
-<br/>
-JavaScript
-<br/>
-Python
-<br/>
-SQL
-</sup>
-
-<br/><br/>
-
-</td>
-<td width="25%" align="center">
-
-<br/>
-
-**Frontend**
-
-<br/>
-
-<sup>
-React
-<br/>
-TailwindCSS
-<br/>
-Framer Motion
-<br/>
-Tanstack
-</sup>
-
-<br/><br/>
-
-</td>
-<td width="25%" align="center">
-
-<br/>
-
-**Backend**
-
-<br/>
-
-<sup>
-Node
-<br/>
-Convex
-<br/>
-PostgreSQL
-<br/>
-Redis
-</sup>
-
-<br/><br/>
-
-</td>
-<td width="25%" align="center">
-
-<br/>
-
-**Infrastructure**
-
-<br/>
-
-<sup>
-Cloudflare
-<br/>
-Docker
-<br/>
-AWS
-<br/>
-Terraform
-</sup>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-```
-                            ┌─────────────────────────────────────┐
-                            │                                     │
-                            │          M  E  T  R  I  C  S        │
-                            │                                     │
-                            └─────────────────────────────────────┘
-```
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=hazlijohar95&show_icons=true&hide_border=true&bg_color=00000000&title_color=6b7280&text_color=4b5563&icon_color=4b5563&ring_color=374151&hide_title=true&hide_rank=true" height="140"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazlijohar95&hide_border=true&background=00000000&ring=374151&fire=6b7280&currStreakLabel=4b5563&sideLabels=4b5563&currStreakNum=6b7280&sideNums=4b5563&dates=374151" height="140"/>
+Building software for accountants who deserve better tools.
 
 <br/><br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+</div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                             │
-│                                                                                             │
-│                                    kuala lumpur · utc+8                                     │
-│                                                                                             │
-│                                                                                             │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<br/>
+
+#### Now
+
+Design & engineering at **[Cynco](https://cynco.io)**
+
+<br/>
+
+#### Previously
+
+Chartered Accountant
+
+<br/>
+
+#### Location
+
+Kuala Lumpur
+
+<br/><br/>
+
+</td>
+<td valign="top" width="50%">
+
+<br/>
+
+#### Principles
+
+<br/>
+
+Constraints enable creativity
+
+Simplicity requires effort
+
+Ship, learn, iterate
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+#### Selected Work
+
+<br/>
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<br/>
+
+[**cynco.io**](https://cynco.io)
+
+<sub>Practice management</sub>
+
+<br/><br/>
+
+</td>
+<td align="center" width="33%">
+
+<br/>
+
+[**opentaxation.my**](https://opentaxation.my)
+
+<sub>Tax calculator</sub>
+
+<br/><br/>
+
+</td>
+<td align="center" width="33%">
+
+<br/>
+
+[**firm-portal**](https://github.com/hazlijohar95/firm-portal)
+
+<sub>Client portal</sub>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+#### Tools
+
+<br/>
+
+<sub>
+TypeScript · React · TailwindCSS · Convex · Cloudflare · PostgreSQL
+</sub>
+
+<br/><br/>
+
+#### Setup
+
+<br/>
+
+<sub>
+Cursor · Warp · JetBrains Mono · Dark
+</sub>
+
+<br/><br/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<sub>
+
+[LinkedIn](https://linkedin.com/in/hazlijohar) · [X](https://twitter.com/hazlijohar) · [GitHub](https://github.com/hazlijohar95)
+
+</sub>
+
+<br/><br/>
 
 </div>
