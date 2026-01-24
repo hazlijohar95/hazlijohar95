@@ -12,12 +12,23 @@
 
 <br/>
 
-<!-- CPA Australia Official Logo -->
+<!-- Professional Credentials -->
+<table>
+<tr>
+<td align="center">
 <a href="https://www.cpaaustralia.com.au">
-  <img src="./cpa-australia-logo.jpg" alt="CPA Australia Member" height="60"/>
+<img src="./cpa-australia-logo.jpg" alt="CPA Australia" height="70"/>
 </a>
+</td>
+<td align="center">
+<a href="https://www.mia.org.my">
+<img src="./mia-logo.jpg" alt="MIA - Malaysian Institute of Accountants" height="70"/>
+</a>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00FF00?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Location-Kuala%20Lumpur-FF6B6B?style=for-the-badge" alt="Location"/>
@@ -38,7 +49,7 @@
 const dev = {
     name: "Hazli Johar",
     title: "Chartered Accountant turned Full-Stack Dev",
-    credentials: ["CPA (Australia)"],
+    credentials: ["CPA (Australia)", "MIA (Malaysia)"],
     based: "KL, Malaysia",
 
     stack: {
