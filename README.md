@@ -1,118 +1,119 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hazli%20Johar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Finance%20Meets%20Code&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Building+bridges+between+spreadsheets+%26+servers;Turning+financial+complexity+into+elegant+code" alt="Typing SVG" /></a>
-
-<!-- Social Badges -->
-<p>
-<a href="https://linkedin.com/in/hazlijohar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/hazlijohar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://github.com/hazlijohar95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-</div>
-
----
-
-## 🧮 About Me
-
-```typescript
-const hazli = {
-  pronouns: "he" | "him",
-  location: "Malaysia 🇲🇾",
-  roles: ["Finance Professional", "Software Developer", "Problem Solver"],
-
-  currentlyBuilding: "SaaS products that make finance less painful",
-  learningNow: ["System Design", "Cloud Architecture", "Open Source"],
-
-  funFact: "I debug code the same way I reconcile accounts — methodically 📊"
-};
+```
+ _   _               _   _     _         _
+| | | |  __ _  ____ | | (_)   | |  ___  | |__    __ _  _ __
+| |_| | / _` ||_  / | | | |   | | / _ \ | '_ \  / _` || '__|
+|  _  || (_| | / /  | | | |   | || (_) || | | || (_| || |
+|_| |_| \__,_|/___| |_| |_|   |_| \___/ |_| |_| \__,_||_|
 ```
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=40&lines=%24+sudo+rm+-rf+%2Ffinancial-complexity;%24+Building+systems+that+just+work;%24+CPA+%2B+TypeScript+%3D+Dangerous)](https://git.io/typing-svg)
 
-<!-- Languages & Frameworks -->
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python&theme=dark" alt="Tech Stack"/>
-</p>
+<br/>
 
-<!-- Tools & Platforms -->
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,cloudflare,postgres&theme=dark" alt="Tools"/>
-</p>
+<!-- Certifications -->
+<img src="https://img.shields.io/badge/CPA-Australia-00529B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bS0xIDE3LjkzYy0zLjk1LS40OS03LTMuODUtNy03LjkzIDAtLjYyLjA4LTEuMjEuMjEtMS43OUw5IDE1djFjMCAxLjEuOSAyIDIgMnYxLjkzem02LjktMi41NGMtLjI2LS44MS0xLTEuMzktMS45LTEuMzloLTF2LTNjMC0uNTUtLjQ1LTEtMS0xSDh2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuMzl6Ii8+PC9zdmc+&logoColor=white" alt="CPA Australia"/>
+<img src="https://img.shields.io/badge/Status-Building%20in%20Public-00FF00?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Location-Kuala%20Lumpur-FF6B6B?style=for-the-badge" alt="Location"/>
 
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hazlijohar95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazlijohar95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazlijohar95&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazlijohar95&bg_color=0D1117&color=667eea&line=764ba2&point=fff&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
-## 🚀 What I'm Up To
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 Currently Working On
-- Building SaaS products for accounting professionals
-- Automating financial workflows with code
-- Contributing to open source
-
-</td>
-<td width="50%">
-
-### 🌱 Learning & Exploring
-- Advanced TypeScript patterns
-- Cloud-native architectures
-- AI/ML for financial analysis
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 💡 Philosophy
-
-> *"The best code is like a good financial statement — clear, accurate, and tells a story."*
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Profile Views Counter -->
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=hazlijohar95&style=for-the-badge&color=667eea" alt="Profile Views"/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<!-- Socials -->
+<a href="https://linkedin.com/in/hazlijohar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/hazlijohar"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="https://github.com/hazlijohar95"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
+---
+
+```javascript
+// $ whoami
+const dev = {
+    name: "Hazli Johar",
+    title: "CPA turned Full-Stack Dev",
+    based: "KL, Malaysia",
+
+    stack: {
+        languages:  ["TypeScript", "JavaScript", "Python", "SQL"],
+        frontend:   ["React", "Next.js", "TailwindCSS"],
+        backend:    ["Node.js", "Convex", "PostgreSQL"],
+        infra:      ["Cloudflare", "Vercel", "Docker"],
+        currently:  "Building accounting SaaS that doesn't suck"
+    },
+
+    superpower: "I read financial statements AND stack traces",
+
+    shipping: () => "fast && breaking things (in staging)"
+};
+```
+
+---
+
+<div align="center">
+
+### `> tech --stack`
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,cloudflare,vercel,git&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `> stats --github`
+
+<img src="https://github-readme-stats.vercel.app/api?username=hazlijohar95&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazlijohar95&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazlijohar95&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00&stroke=00ff00" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazlijohar95&bg_color=0d1117&color=00ff00&line=00ff00&point=ff6b6b&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+### `> current --projects`
+
+```bash
+├── 🏢 cynco.io           # Accounting practice management
+├── 📊 opentaxation.my    # Tax calculator for Malaysians
+├── 💼 firm-portal        # Client portal for accountants
+└── 🔧 [stealth]          # Something cool brewing...
+```
+
+---
+
+<div align="center">
+
+### `> philosophy`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Write code like you write financial statements:         │
+│    accurate, auditable, and tells the whole story."        │
+│                                                             │
+│                              — Me, probably at 3am          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hazlijohar95&style=flat-square&color=00ff00" alt="Profile Views"/>
+
+<br/>
+
+**If it compiles, ship it.** *(after proper testing in staging)*
+
+</div>
