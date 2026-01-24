@@ -12,10 +12,13 @@
 
 <br/>
 
-<!-- CPA Australia Member Badge -->
+<!-- CPA Australia Official Logo -->
 <a href="https://www.cpaaustralia.com.au">
-  <img src="https://img.shields.io/badge/CPA_Australia-Member-00205C?style=for-the-badge&labelColor=00205C&color=D4AF37" alt="CPA Australia Member"/>
+  <img src="./cpa-australia-logo.jpg" alt="CPA Australia Member" height="60"/>
 </a>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00FF00?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/Location-Kuala%20Lumpur-FF6B6B?style=for-the-badge" alt="Location"/>
 
