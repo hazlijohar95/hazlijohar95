@@ -1,136 +1,206 @@
-```
- _   _               _   _     _         _
-| | | |  __ _  ____ | | (_)   | |  ___  | |__    __ _  _ __
-| |_| | / _` ||_  / | | | |   | | / _ \ | '_ \  / _` || '__|
-|  _  || (_| | / /  | | | |   | || (_) || | | || (_| || |
-|_| |_| \__,_|/___| |_| |_|   |_| \___/ |_| |_| \__,_||_|
-```
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=40&lines=%24+sudo+rm+-rf+%2Ffinancial-complexity;%24+Building+systems+that+just+work;%24+CPA+%2B+TypeScript+%3D+Dangerous)](https://git.io/typing-svg)
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   ██╗  ██╗ █████╗ ███████╗██╗     ██╗         ██╗ ██████╗ ██╗  ██╗ █████╗   │
+│   ██║  ██║██╔══██╗╚══███╔╝██║     ██║         ██║██╔═══██╗██║  ██║██╔══██╗  │
+│   ███████║███████║  ███╔╝ ██║     ██║         ██║██║   ██║███████║███████║  │
+│   ██╔══██║██╔══██║ ███╔╝  ██║     ██║    ██   ██║██║   ██║██╔══██║██╔══██║  │
+│   ██║  ██║██║  ██║███████╗███████╗██║    ╚█████╔╝╚██████╔╝██║  ██║██║  ██║  │
+│   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  │
+│                                                                              │
+│                    chartered accountant × full-stack developer               │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-<!-- Professional Credentials -->
+<!-- Professional Credentials - The boring stuff that makes parents proud -->
 <table>
 <tr>
 <td align="center">
 <a href="https://www.cpaaustralia.com.au">
-<img src="./cpa-logo.jpg" alt="CPA Australia" height="70"/>
+<img src="./cpa-logo.jpg" alt="CPA Australia" height="50"/>
 </a>
 </td>
 <td align="center">
 <a href="https://www.mia.org.my">
-<img src="./mia-logo.jpg" alt="MIA - Malaysian Institute of Accountants" height="70"/>
+<img src="./mia-logo.jpg" alt="MIA" height="50"/>
 </a>
 </td>
+</tr>
+<tr>
+<td align="center"><sub>yes, I can do your taxes</sub></td>
+<td align="center"><sub>legally</sub></td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Building%20in%20Public-00FF00?style=for-the-badge" alt="Status"/>
-<img src="https://img.shields.io/badge/Location-Kuala%20Lumpur-FF6B6B?style=for-the-badge" alt="Location"/>
+[![LinkedIn](https://img.shields.io/badge/linkedin-hazlijohar-1a1a1a?style=flat-square&logo=linkedin&logoColor=6b7280)](https://linkedin.com/in/hazlijohar)
+[![X](https://img.shields.io/badge/x-hazlijohar-1a1a1a?style=flat-square&logo=x&logoColor=6b7280)](https://twitter.com/hazlijohar)
+[![GitHub](https://img.shields.io/badge/github-hazlijohar95-1a1a1a?style=flat-square&logo=github&logoColor=6b7280)](https://github.com/hazlijohar95)
+
+</div>
+
+---
+
+<details>
+<summary><b>$ cat ./about.json</b></summary>
+<br/>
+
+```json
+{
+  "name": "Hazli Johar",
+  "location": "Kuala Lumpur, Malaysia",
+  "timezone": "UTC+8 (perpetually caffeinated)",
+
+  "background": {
+    "previous_life": "Chartered Accountant",
+    "plot_twist": "Learned to code",
+    "current_status": "Building software that accountants actually want to use"
+  },
+
+  "credentials": [
+    "CPA (Australia) — survived the ethics exam",
+    "MIA (Malaysia) — member in good standing (they haven't caught on yet)"
+  ],
+
+  "philosophy": "If the spreadsheet has more than 50 tabs, it's time for a database",
+
+  "fun_facts": [
+    "Can explain GAAP and GraphQL in the same sentence",
+    "Debugs code like auditing financial statements — trust nothing",
+    "Left a stable career to write code that crashes at 3am"
+  ]
+}
+```
+
+</details>
+
+<details>
+<summary><b>$ ls -la ./skills/</b></summary>
+<br/>
+
+```
+drwxr-xr-x  hazli  staff   languages/
+├── typescript ████████████████████░░  proficient (daily driver)
+├── javascript ████████████████████░░  proficient (it's complicated)
+├── python     ████████████████░░░░░░  competent (for the ml hype)
+├── sql        ██████████████████████  fluent (accountant roots)
+└── rust       ████░░░░░░░░░░░░░░░░░░  learning (pain enthusiast)
+
+drwxr-xr-x  hazli  staff   frontend/
+├── react      ████████████████████░░  primary weapon
+├── tailwindcss████████████████████░░  css is hard, this helps
+├── tanstack   ████████████████░░░░░░  query everything
+└── framer     ████████████░░░░░░░░░░  make things move
+
+drwxr-xr-x  hazli  staff   backend/
+├── node       ████████████████████░░  event loops go brrr
+├── convex     ████████████████░░░░░░  realtime without the pain
+├── postgres   ██████████████████████  old reliable
+└── redis      ████████████████░░░░░░  cache money
+
+drwxr-xr-x  hazli  staff   infra/
+├── cloudflare ████████████████████░░  edge everything
+├── docker     ████████████████░░░░░░  it works on my machine™
+├── aws        ████████████░░░░░░░░░░  bills go up, sleep goes down
+└── terraform  ████████░░░░░░░░░░░░░░  infrastructure as yaml nightmares
+```
+
+</details>
+
+<details>
+<summary><b>$ ps aux | grep "active-projects"</b></summary>
+<br/>
+
+```
+USER       PID  %CPU %MEM    STATUS   COMMAND
+hazli    42069  89.2  45.1   running  cynco.io
+  └── Accounting practice management for firms that hate legacy software
+  └── Stack: TypeScript, React, Convex, Cloudflare
+  └── Status: Actively shipping features nobody asked for (but everyone needs)
+
+hazli    31337  34.7  12.3   running  opentaxation.my
+  └── Tax calculator that doesn't require a PhD to understand
+  └── Stack: TypeScript, React, Cloudflare Workers
+  └── Status: Making LHDN slightly less terrifying
+
+hazli    80085  12.1   8.4   running  firm-portal
+  └── Client portal for accountants who are tired of WhatsApp
+  └── Stack: TypeScript, React, Convex
+  └── Status: Replacing 47 different WhatsApp groups
+
+hazli    00000   ?.?   ?.?   stealth  [REDACTED]
+  └── Something cool brewing
+  └── Stack: classified
+  └── Status: "trust me bro"
+```
+
+</details>
+
+<details open>
+<summary><b>$ neofetch --minimal</b></summary>
+<br/>
+
+```
+                    hazli@universe
+   ╭──────────╮     ─────────────────
+   │  ◠   ◠   │     OS:      macOS (btw i don't use arch)
+   │    ▽     │     Shell:   zsh + oh-my-zsh (like everyone else)
+   │  ╰───╯   │     Editor:  cursor (vscode for zoomers)
+   ╰──────────╯     Terminal: warp (i pay for my terminal apparently)
+                    Font:    JetBrains Mono (personality substitute)
+                    Theme:   dark (obviously)
+                    Coffee:  ████████████████ CRITICAL
+                    Sleep:   ░░░░░░░░░░░░░░░░ ERROR: NOT FOUND
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### `metrics`
+
+<img src="https://github-readme-stats.vercel.app/api?username=hazlijohar95&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9ca3af&text_color=6b7280&icon_color=4b5563&ring_color=374151" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazlijohar95&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9ca3af&text_color=6b7280" height="150"/>
 
 <br/><br/>
 
-<!-- Socials -->
-<a href="https://linkedin.com/in/hazlijohar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/hazlijohar"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
-<a href="https://github.com/hazlijohar95"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-
-</div>
-
----
-
-```javascript
-// $ whoami
-const dev = {
-    name: "Hazli Johar",
-    title: "Chartered Accountant turned Full-Stack Dev",
-    credentials: ["CPA (Australia)", "MIA (Malaysia)"],
-    based: "KL, Malaysia",
-
-    stack: {
-        languages:  ["TypeScript", "JavaScript", "Python", "SQL"],
-        frontend:   ["React", "Next.js", "TailwindCSS"],
-        backend:    ["Node.js", "Convex", "PostgreSQL"],
-        infra:      ["Cloudflare", "Vercel", "Docker"],
-        currently:  "Building accounting SaaS that doesn't suck"
-    },
-
-    superpower: "I read financial statements AND stack traces",
-
-    shipping: () => "fast && breaking things (in staging)"
-};
-```
-
----
-
-<div align="center">
-
-### `> tech --stack`
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,cloudflare,vercel,git&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazlijohar95&hide_border=true&background=0d0d0d&ring=374151&fire=9ca3af&currStreakLabel=6b7280&sideLabels=6b7280&currStreakNum=9ca3af&sideNums=6b7280&dates=4b5563" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### `> stats --github`
-
-<img src="https://github-readme-stats.vercel.app/api?username=hazlijohar95&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazlijohar95&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazlijohar95&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00&stroke=00ff00" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hazlijohar95&bg_color=0d1117&color=00ff00&line=00ff00&point=ff6b6b&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-### `> current --projects`
-
-```bash
-├── 🏢 cynco.io           # Accounting practice management
-├── 📊 opentaxation.my    # Tax calculator for Malaysians
-├── 💼 firm-portal        # Client portal for accountants
-└── 🔧 [stealth]          # Something cool brewing...
-```
-
----
-
-<div align="center">
-
-### `> philosophy`
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   "Write code like you write financial statements:         │
-│    accurate, auditable, and tells the whole story."        │
+│   "The code works. The tests pass. Ship it."                │
 │                                                             │
-│                              — Me, probably at 3am          │
+│   — Famous last words before every production incident      │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hazlijohar95&style=flat-square&color=00ff00" alt="Profile Views"/>
-
+<sub>
+built with mass amounts of caffeine and mass delusion<br/>
+currently mass-producing bugs in kuala lumpur<br/>
 <br/>
+<i>if you're reading this, my code is probably broken somewhere</i>
+</sub>
 
-**If it compiles, ship it.** *(after proper testing in staging)*
+<br/><br/>
+
+![visitors](https://img.shields.io/badge/dynamic/json?color=1a1a1a&labelColor=0d0d0d&label=visitors&query=value&url=https://api.countapi.xyz/hit/hazlijohar95/readme&style=flat-square)
 
 </div>
