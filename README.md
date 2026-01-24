@@ -17,7 +17,6 @@
 
 <br/>
 
-<!-- Professional Credentials - The boring stuff that makes parents proud -->
 <table>
 <tr>
 <td align="center">
@@ -30,10 +29,6 @@
 <img src="./mia-logo.jpg" alt="MIA" height="50"/>
 </a>
 </td>
-</tr>
-<tr>
-<td align="center"><sub>yes, I can do your taxes</sub></td>
-<td align="center"><sub>legally</sub></td>
 </tr>
 </table>
 
@@ -55,26 +50,19 @@
 {
   "name": "Hazli Johar",
   "location": "Kuala Lumpur, Malaysia",
-  "timezone": "UTC+8 (perpetually caffeinated)",
+  "timezone": "UTC+8",
 
   "background": {
-    "previous_life": "Chartered Accountant",
-    "plot_twist": "Learned to code",
-    "current_status": "Building software that accountants actually want to use"
+    "previous": "Chartered Accountant",
+    "now": "Building software for accountants"
   },
 
   "credentials": [
-    "CPA (Australia) — survived the ethics exam",
-    "MIA (Malaysia) — member in good standing (they haven't caught on yet)"
+    "CPA Australia",
+    "MIA Malaysia"
   ],
 
-  "philosophy": "If the spreadsheet has more than 50 tabs, it's time for a database",
-
-  "fun_facts": [
-    "Can explain GAAP and GraphQL in the same sentence",
-    "Debugs code like auditing financial statements — trust nothing",
-    "Left a stable career to write code that crashes at 3am"
-  ]
+  "note": "Spreadsheets with 50+ tabs should be databases"
 }
 ```
 
@@ -86,77 +74,70 @@
 
 ```
 drwxr-xr-x  hazli  staff   languages/
-├── typescript ████████████████████░░  proficient (daily driver)
-├── javascript ████████████████████░░  proficient (it's complicated)
-├── python     ████████████████░░░░░░  competent (for the ml hype)
-├── sql        ██████████████████████  fluent (accountant roots)
-└── rust       ████░░░░░░░░░░░░░░░░░░  learning (pain enthusiast)
+├── typescript ████████████████████░░  daily
+├── javascript ████████████████████░░  when needed
+├── python     ████████████████░░░░░░  occasionally
+├── sql        ██████████████████████  accountant brain
+└── rust       ████░░░░░░░░░░░░░░░░░░  exploring
 
 drwxr-xr-x  hazli  staff   frontend/
-├── react      ████████████████████░░  primary weapon
-├── tailwindcss████████████████████░░  css is hard, this helps
-├── tanstack   ████████████████░░░░░░  query everything
-└── framer     ████████████░░░░░░░░░░  make things move
+├── react      ████████████████████░░  main
+├── tailwindcss████████████████████░░  preferred
+├── tanstack   ████████████████░░░░░░  for data
+└── framer     ████████████░░░░░░░░░░  for motion
 
 drwxr-xr-x  hazli  staff   backend/
-├── node       ████████████████████░░  event loops go brrr
-├── convex     ████████████████░░░░░░  realtime without the pain
-├── postgres   ██████████████████████  old reliable
-└── redis      ████████████████░░░░░░  cache money
+├── node       ████████████████████░░  comfortable
+├── convex     ████████████████░░░░░░  realtime stuff
+├── postgres   ██████████████████████  trusted
+└── redis      ████████████████░░░░░░  when it makes sense
 
 drwxr-xr-x  hazli  staff   infra/
-├── cloudflare ████████████████████░░  edge everything
-├── docker     ████████████████░░░░░░  it works on my machine™
-├── aws        ████████████░░░░░░░░░░  bills go up, sleep goes down
-└── terraform  ████████░░░░░░░░░░░░░░  infrastructure as yaml nightmares
+├── cloudflare ████████████████████░░  default choice
+├── docker     ████████████████░░░░░░  containerized
+├── aws        ████████████░░░░░░░░░░  when required
+└── terraform  ████████░░░░░░░░░░░░░░  learning
 ```
 
 </details>
 
 <details>
-<summary><b>$ ps aux | grep "active-projects"</b></summary>
+<summary><b>$ ps aux | grep "projects"</b></summary>
 <br/>
 
 ```
 USER       PID  %CPU %MEM    STATUS   COMMAND
 hazli    42069  89.2  45.1   running  cynco.io
-  └── Accounting practice management for firms that hate legacy software
-  └── Stack: TypeScript, React, Convex, Cloudflare
-  └── Status: Actively shipping features nobody asked for (but everyone needs)
+  └── Practice management for accounting firms
+  └── TypeScript, React, Convex, Cloudflare
 
 hazli    31337  34.7  12.3   running  opentaxation.my
-  └── Tax calculator that doesn't require a PhD to understand
-  └── Stack: TypeScript, React, Cloudflare Workers
-  └── Status: Making LHDN slightly less terrifying
+  └── Tax calculator for Malaysians
+  └── TypeScript, React, Cloudflare Workers
 
 hazli    80085  12.1   8.4   running  firm-portal
-  └── Client portal for accountants who are tired of WhatsApp
-  └── Stack: TypeScript, React, Convex
-  └── Status: Replacing 47 different WhatsApp groups
+  └── Client portal (replacing WhatsApp groups)
+  └── TypeScript, React, Convex
 
 hazli    00000   ?.?   ?.?   stealth  [REDACTED]
-  └── Something cool brewing
-  └── Stack: classified
-  └── Status: "trust me bro"
+  └── tbd
 ```
 
 </details>
 
 <details open>
-<summary><b>$ neofetch --minimal</b></summary>
+<summary><b>$ neofetch</b></summary>
 <br/>
 
 ```
-                    hazli@universe
-   ╭──────────╮     ─────────────────
-   │  ◠   ◠   │     OS:      macOS (btw i don't use arch)
-   │    ▽     │     Shell:   zsh + oh-my-zsh (like everyone else)
-   │  ╰───╯   │     Editor:  cursor (vscode for zoomers)
-   ╰──────────╯     Terminal: warp (i pay for my terminal apparently)
-                    Font:    JetBrains Mono (personality substitute)
-                    Theme:   dark (obviously)
-                    Coffee:  ████████████████ CRITICAL
-                    Sleep:   ░░░░░░░░░░░░░░░░ ERROR: NOT FOUND
+                    hazli@kl
+   ╭──────────╮     ───────────────
+   │  ◠   ◠   │     OS:       macOS
+   │    ▽     │     Shell:    zsh
+   │  ╰───╯   │     Editor:   cursor
+   ╰──────────╯     Terminal:  warp
+                    Font:     JetBrains Mono
+                    Theme:    dark
 ```
 
 </details>
@@ -180,23 +161,8 @@ hazli    00000   ?.?   ?.?   stealth  [REDACTED]
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   "The code works. The tests pass. Ship it."                │
-│                                                             │
-│   — Famous last words before every production incident      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 <sub>
-built with mass amounts of caffeine and mass delusion<br/>
-currently mass-producing bugs in kuala lumpur<br/>
-<br/>
-<i>if you're reading this, my code is probably broken somewhere</i>
+kuala lumpur · utc+8
 </sub>
 
 <br/><br/>
