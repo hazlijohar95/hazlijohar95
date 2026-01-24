@@ -40,133 +40,284 @@
 
 </div>
 
----
+<br/><br/>
 
-<details>
-<summary><b>$ cat ./about.json</b></summary>
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### About
 
 ```json
 {
-  "name": "Hazli Johar",
-  "location": "Kuala Lumpur, Malaysia",
-  "timezone": "UTC+8",
-
-  "background": {
-    "previous": "Chartered Accountant",
-    "now": "Building software for accountants"
-  },
-
-  "credentials": [
-    "CPA Australia",
-    "MIA Malaysia"
-  ],
-
-  "note": "Spreadsheets with 50+ tabs should be databases"
+  "location": "Kuala Lumpur",
+  "background": "Chartered Accountant",
+  "now": "Design Engineer",
+  "focus": "Building tools for accountants"
 }
 ```
 
-</details>
-
-<details>
-<summary><b>$ ls -la ./skills/</b></summary>
 <br/>
 
+### Setup
+
 ```
-drwxr-xr-x  hazli  staff   languages/
-├── typescript ████████████████████░░  daily
-├── javascript ████████████████████░░  when needed
-├── python     ████████████████░░░░░░  occasionally
-├── sql        ██████████████████████  accountant brain
-└── rust       ████░░░░░░░░░░░░░░░░░░  exploring
-
-drwxr-xr-x  hazli  staff   frontend/
-├── react      ████████████████████░░  main
-├── tailwindcss████████████████████░░  preferred
-├── tanstack   ████████████████░░░░░░  for data
-└── framer     ████████████░░░░░░░░░░  for motion
-
-drwxr-xr-x  hazli  staff   backend/
-├── node       ████████████████████░░  comfortable
-├── convex     ████████████████░░░░░░  realtime stuff
-├── postgres   ██████████████████████  trusted
-└── redis      ████████████████░░░░░░  when it makes sense
-
-drwxr-xr-x  hazli  staff   infra/
-├── cloudflare ████████████████████░░  default choice
-├── docker     ████████████████░░░░░░  containerized
-├── aws        ████████████░░░░░░░░░░  when required
-└── terraform  ████████░░░░░░░░░░░░░░  learning
+editor     cursor
+terminal   warp
+font       jetbrains mono
+theme      dark
 ```
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>$ ps aux | grep "projects"</b></summary>
+### Approach
+
 <br/>
 
-```
-USER       PID  %CPU %MEM    STATUS   COMMAND
-hazli    42069  89.2  45.1   running  cynco.io
-  └── Practice management for accounting firms
-  └── TypeScript, React, Convex, Cloudflare
+**Systems thinking**
+<br/>
+<sup>Understanding the whole before designing the parts</sup>
 
-hazli    31337  34.7  12.3   running  opentaxation.my
-  └── Tax calculator for Malaysians
-  └── TypeScript, React, Cloudflare Workers
-
-hazli    80085  12.1   8.4   running  firm-portal
-  └── Client portal (replacing WhatsApp groups)
-  └── TypeScript, React, Convex
-
-hazli    00000   ?.?   ?.?   stealth  [REDACTED]
-  └── tbd
-```
-
-</details>
-
-<details open>
-<summary><b>$ neofetch</b></summary>
 <br/>
 
-```
-                    hazli@kl
-   ╭──────────╮     ───────────────
-   │  ◠   ◠   │     OS:       macOS
-   │    ▽     │     Shell:    zsh
-   │  ╰───╯   │     Editor:   cursor
-   ╰──────────╯     Terminal:  warp
-                    Font:     JetBrains Mono
-                    Theme:    dark
-```
+**Intentional constraints**
+<br/>
+<sup>Limitations as a creative tool</sup>
 
-</details>
+<br/>
 
----
+**Functional aesthetics**
+<br/>
+<sup>Design that works, not just looks</sup>
+
+<br/>
+
+**Ship > perfect**
+<br/>
+<sup>Iteration over speculation</sup>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `metrics`
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hazlijohar95&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9ca3af&text_color=6b7280&icon_color=4b5563&ring_color=374151" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazlijohar95&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9ca3af&text_color=6b7280" height="150"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazlijohar95&hide_border=true&background=0d0d0d&ring=374151&fire=9ca3af&currStreakLabel=6b7280&sideLabels=6b7280&currStreakNum=9ca3af&sideNums=6b7280&dates=4b5563" />
+```
+                            ┌─────────────────────────────────────┐
+                            │                                     │
+                            │            W  O  R  K               │
+                            │                                     │
+                            └─────────────────────────────────────┘
+```
 
 </div>
 
----
+<br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-<sub>
-kuala lumpur · utc+8
-</sub>
+<br/>
+
+**cynco.io**
+
+<sup>Practice management<br/>for accounting firms</sup>
+
+<br/>
+
+`ts` `react` `convex`
 
 <br/><br/>
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=1a1a1a&labelColor=0d0d0d&label=visitors&query=value&url=https://api.countapi.xyz/hit/hazlijohar95/readme&style=flat-square)
+</td>
+<td width="33%" align="center">
+
+<br/>
+
+**opentaxation.my**
+
+<sup>Tax calculator<br/>for Malaysians</sup>
+
+<br/>
+
+`ts` `react` `workers`
+
+<br/><br/>
+
+</td>
+<td width="33%" align="center">
+
+<br/>
+
+**firm-portal**
+
+<sup>Client portal<br/>for accountants</sup>
+
+<br/>
+
+`ts` `react` `convex`
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+                            ┌─────────────────────────────────────┐
+                            │                                     │
+                            │            T  O  O  L  S            │
+                            │                                     │
+                            └─────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+<br/>
+
+**Languages**
+
+<br/>
+
+<sup>
+TypeScript
+<br/>
+JavaScript
+<br/>
+Python
+<br/>
+SQL
+</sup>
+
+<br/><br/>
+
+</td>
+<td width="25%" align="center">
+
+<br/>
+
+**Frontend**
+
+<br/>
+
+<sup>
+React
+<br/>
+TailwindCSS
+<br/>
+Framer Motion
+<br/>
+Tanstack
+</sup>
+
+<br/><br/>
+
+</td>
+<td width="25%" align="center">
+
+<br/>
+
+**Backend**
+
+<br/>
+
+<sup>
+Node
+<br/>
+Convex
+<br/>
+PostgreSQL
+<br/>
+Redis
+</sup>
+
+<br/><br/>
+
+</td>
+<td width="25%" align="center">
+
+<br/>
+
+**Infrastructure**
+
+<br/>
+
+<sup>
+Cloudflare
+<br/>
+Docker
+<br/>
+AWS
+<br/>
+Terraform
+</sup>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```
+                            ┌─────────────────────────────────────┐
+                            │                                     │
+                            │          M  E  T  R  I  C  S        │
+                            │                                     │
+                            └─────────────────────────────────────┘
+```
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hazlijohar95&show_icons=true&hide_border=true&bg_color=00000000&title_color=6b7280&text_color=4b5563&icon_color=4b5563&ring_color=374151&hide_title=true&hide_rank=true" height="140"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hazlijohar95&hide_border=true&background=00000000&ring=374151&fire=6b7280&currStreakLabel=4b5563&sideLabels=4b5563&currStreakNum=6b7280&sideNums=4b5563&dates=374151" height="140"/>
+
+<br/><br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                             │
+│                                                                                             │
+│                                    kuala lumpur · utc+8                                     │
+│                                                                                             │
+│                                                                                             │
+└─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
