@@ -60,7 +60,7 @@
 │   Chartered Accountant who loves to design and           │
 │   self-taught coding assisted by AI.                     │
 │                                                          │
-│   Now building software that accountants actually        │
+│   I built software that accountants actually             │
 │   want to use.                                           │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
