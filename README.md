@@ -4,8 +4,6 @@
 
 # hazli johar
 
-**accountant → design engineer**
-
 <br/>
 
 building software that accountants actually want to use
@@ -18,7 +16,7 @@ building software that accountants actually want to use
 
 [**cynco.io**](https://cynco.io) &nbsp;·&nbsp; [**opentaxation.my**](https://opentaxation.my)
 
-<sub>practice management for accounting firms &nbsp;&nbsp;·&nbsp;&nbsp; tax calculator for malaysians</sub>
+<sub> ai-native accounting infrastructure &nbsp;&nbsp;·&nbsp;&nbsp; tax calculator for malaysians</sub>
 
 <br/><br/>
 
